@@ -8,7 +8,7 @@ build:
     - tree
 sphinx:
   builder: html
-  configuration: SnapEmuDocs/conf.py
+  configuration: SnapEmu doc/SnapEmuDocs/source/conf.py
   fail_on_warning: false
 python:
    install:

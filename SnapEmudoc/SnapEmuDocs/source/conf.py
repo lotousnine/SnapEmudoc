@@ -1,5 +1,5 @@
 
-project = 'SnapEmu Docs'
+project = 'SnapEmuDocs'
 copyright = '2024, Heltec'
 author = 'Heltec'
 release = 'latest'

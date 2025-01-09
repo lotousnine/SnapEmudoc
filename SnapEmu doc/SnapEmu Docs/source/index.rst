@@ -1,7 +1,3 @@
-.. SnapEmu Docs documentation master file, created by
-   sphinx-quickstart on Tue Dec 24 17:57:35 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
 Build a LoRaWAN System with SnapEmu
 ===================================

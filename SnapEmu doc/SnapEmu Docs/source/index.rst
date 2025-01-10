@@ -242,7 +242,7 @@ HaLow Series <https://heltec.org/product-category/halow/>`__
 | //heltec.org/project/ht-hr01/>`__ | a 5MP camera                      |
 +-----------------------------------+-----------------------------------+
 
-3. deploy SnapEmu
+3. Deploy SnapEmu
 -----------------
 
 `SnapEmu <https://platform.snapemu.com/dashboard/>`__ **is an open-source IoT platform that
@@ -253,11 +253,10 @@ code visualization of upstream data decoding and downstream instruction
 sending, and has corresponding comprehensive documentation support,
 enabling developers to quickly deploy and debug**.
 
-- Local deployment
+.. toctree::
+   :maxdepth: 2
 
-  - Cloud Server
-  - Edge computing Gateway
-  - Raspberry Pi
+   Local Deploy/index
 
 3.1 Register LoRa Gateway on SnapEmu
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -268,26 +267,20 @@ corresponding gateway for registration.
 **Note:** *The frequency band for configuring the gateway page needs to
 be consistent with the frequency band selected on snapemu.*
 
-- `Heltec HT-M2802 connect to
-  SnapEmu <https://docs.heltec.cn/en/gateway/ht-m2802/connect_to_snapemu.html>`__
-- `Heltec HT-M01S connect to
-  SnapEmu <https://docs.heltec.cn/en/gateway/ht-m01s_v2/connect_to_snapemu.html>`__
-- `Heltec HT-M7603 connect to
-  SnapEmu <https://docs.heltec.cn/en/gateway/ht-m7603/connect_to_snapemu.html>`__
-- `Heltec HT-M02 connect to
-  SnapEmu <https://docs.heltec.cn/en/gateway/ht-m02_v2/connect_to_snapemu.html>`__
+.. toctree::
+   :maxdepth: 2
+
+   Gateway Register on Snapemu/index
 
 3.2 Node Devices Connection
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. toctree::
+   :maxdepth: 2
+
+   Node Devices Connection/index
+
 - WiFi LoRa 32 working with SnapEmu
-
-  - `Register nodes on
-    SnapEmu <https://docs.heltec.org/en/node/esp32/esp32_general_docs/connect_to_snapemu.html>`__
-
-  - `Custom decoding <https://docs.heltec.cn/general/define_sensor_decoding_function_on_snapemu.html>`__
-
-  - `Issue instructions <https://docs.heltec.cn/general/downlinkdata_example_on_snapemu.html>`__
 
   - `Hall Sensor Door Detection LoRaWAN System <https://www.hackster.io/ashley15/wifi-lora-32-hall-sensor-door-detection-lorawan-system-57febb>`__
 
@@ -296,4 +289,7 @@ be consistent with the frequency band selected on snapemu.*
   - `Ultrasonic Sensor Distance Measurement with
     LoRaWAN <https://www.hackster.io/ashley15/ultrasonic-sensor-distance-measurement-with-lorawan-78c30d>`__
 
-.. |image1| image:: img/1.png
+
+
+
+  

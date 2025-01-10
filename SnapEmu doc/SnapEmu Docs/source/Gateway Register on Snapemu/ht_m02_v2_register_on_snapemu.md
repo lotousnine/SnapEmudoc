@@ -1,26 +1,26 @@
-# Heltec HT-M01S Connect to Snapemu
+# Heltec HT-M02 Connect to Snapemu
 
-Firstly, users can quickly configure the gateway according to [this document](https://docs.heltec.cn/en/gateway/ht-m01s_v2/quick_start.html).
+Firstly, users can quickly configure the gateway according to [this document](https://docs.heltec.cn/en/gateway/ht-m02_v2/quick_start.html).
 
 ## Register a LoRa gateway in Snapemu
 
 *User log in to [Snapemu](https://platform.snapemu.com/dashboard/) by using their Heltec website account.*
 
-![](img/heltec_ht-m01s_connect_to_snapemu/1.png)
+![](img/ht_m02_v2_register_on_snapemu/1.png)
 
 *User successfully logs in, this interface will be displayed.* 
 
-![](img/heltec_ht-m01s_connect_to_snapemu/2.png)
+![](img/ht_m02_v2_register_on_snapemu/2.png)
 
 *Registering the device, click where shown below.*
 
-![](img/heltec_ht-m01s_connect_to_snapemu/3.png)
+![](img/ht_m02_v2_register_on_snapemu/3.png)
 
 *Select device type and fill in configuration information on this interface.*
 
-![](img/heltec_ht-m01s_connect_to_snapemu/4.png)
+![](img/ht_m02_v2_register_on_snapemu/4.png)
 
-![](img/heltec_ht-m01s_connect_to_snapemu/5.png)
+![](img/ht_m02_v2_register_on_snapemu/5.png)
 
    - `device name` and `description` can be filled in freely, and they will become the name and remark of the device displayed on the platform. 
    - `Group` denotes the grouping of the device on SnapEmu.
@@ -30,13 +30,13 @@ Firstly, users can quickly configure the gateway according to [this document](ht
 
 *After filling in the information, click Submit and refresh the page to see the device. Then click here to select the corresponding product image.*
 
-![](img/heltec_ht-m01s_connect_to_snapemu/6.png)
+![](img/ht_m02_v2_register_on_snapemu/6.png)
 
-![](img/heltec_ht-m01s_connect_to_snapemu/7.png)
+![](img/ht_m02_v2_register_on_snapemu/7.png)
 
-![](img/heltec_ht-m01s_connect_to_snapemu/8.png)
+![](img/ht_m02_v2_register_on_snapemu/8.png)
 
 *If everything goes smoothly, it will be as shown in the picture.*
 
-![](img/heltec_ht-m01s_connect_to_snapemu/9.png)
+![](img/ht_m02_v2_register_on_snapemu/9.png)
 

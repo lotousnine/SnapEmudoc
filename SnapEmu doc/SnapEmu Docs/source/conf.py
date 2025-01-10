@@ -33,3 +33,5 @@ source_suffix = {
     '.md': 'markdown',
 }
 master_doc = 'index'  
+
+html_theme = "sphinx_rtd_theme"

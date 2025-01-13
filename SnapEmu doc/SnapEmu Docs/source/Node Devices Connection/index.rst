@@ -6,6 +6,16 @@ Node Devices Connection
 .. toctree::
    :maxdepth: 2
 
-   Register_on_Snapemu <register_on_snapemu>
-   Define_Sensor_Decoding_Function_on_Snapemu <define_sensor_decoding_function_on_snapemu>
-   Downlinkdata_Example_on_Snapemu <downlinkdata_example_on_snapemu>
+   Register on Snapemu <register_on_snapemu>
+   Define Sensor Decoding Function on Snapemu <define_sensor_decoding_function_on_snapemu>
+   Downlinkdata Example on Snapemu <downlinkdata_example_on_snapemu>
+
+- WiFi LoRa 32 working with SnapEmu
+
+  - `Hall Sensor Door Detection LoRaWAN System <https://www.hackster.io/ashley15/wifi-lora-32-hall-sensor-door-detection-lorawan-system-57febb>`__
+
+- nRF T114 working with SnapEmu
+
+  - `Ultrasonic Sensor Distance Measurement with
+    LoRaWAN <https://www.hackster.io/ashley15/ultrasonic-sensor-distance-measurement-with-lorawan-78c30d>`__
+   
